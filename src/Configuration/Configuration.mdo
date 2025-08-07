@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Master</subsystems>
   <commonCommands>CommonCommand.НайтиТоварПоНаименованию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>
