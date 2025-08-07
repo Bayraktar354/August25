@@ -76,6 +76,7 @@
       <key>ru</key>
       <value>Это услуга</value>
     </synonym>
+    <comment>не услуга, а так - одно название</comment>
     <type>
       <types>Boolean</types>
     </type>
